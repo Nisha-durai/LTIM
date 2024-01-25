@@ -1,0 +1,12 @@
+<library>
+  <book>
+    <title>"Nisha world"</title>
+    <author>"Nisha"</author>
+    <price>1000</price>
+  </book>
+  <book>
+    <title>"peace"</title>
+    <author>"liki"</author>
+    <price>800</price>
+  </book>
+</library>
